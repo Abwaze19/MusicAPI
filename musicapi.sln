@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "musicapi", "musicapi\musicapi.csproj", "{DE95D4AC-BAA2-479F-A585-2E9284851590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE95D4AC-BAA2-479F-A585-2E9284851590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE95D4AC-BAA2-479F-A585-2E9284851590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE95D4AC-BAA2-479F-A585-2E9284851590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE95D4AC-BAA2-479F-A585-2E9284851590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97F33EE2-28A5-4E27-AFB5-B77EED443564}
+	EndGlobalSection
+EndGlobal
